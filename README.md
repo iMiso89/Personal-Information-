@@ -1,8 +1,6 @@
 ## Hello
 
-You can use the [editor on GitHub](https://github.com/iMiso89/Personal-Information-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Stamatis Misomikes and my student number is S3756306 & my email marty_m1989@hotmail.com. I am a Greek-Australian, born in Rhodes, Greece and I am fluent in both English and Greekleft South Sydney High School in 2007, completed Accounting at TAFE & Uni though University of Technology Sydney. Some of my hobbies include being a massibe football (soccer) fan, which I play, coach & support Olympiakos (Greece) & Liverpool (England)
 
 ### Markdown
 
